@@ -15,3 +15,4 @@ Thumbs.db
 
 # Local background images 
 images/
+.pytest_cache/
