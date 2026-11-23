@@ -1,6 +1,15 @@
 Molecular 3D NMR Predictor
 
-An interactive molecular visualization and ¹³C NMR prediction learning project built using Python, RDKit, FastAPI and Machine Learning.
+Project Overview
+
+This project implements a machine learning-based prediction system using Python.It demonstrates data generation, model training,decision tree 
+implementation,model comparision,and prediction.
+
+The objective is to build a complete machine learning workflow and make predictions using trained models.
+
+Probelm Statement
+Develop a machine learning system that learns patterns from structured
+data nad uses those patterns to make predictions.
 
 Features
 
@@ -12,7 +21,7 @@ Features
 - Predict carbon chemical shifts using machine learning.
 - Compare Linear Regression, Decision Tree and Random Forest models.
 
-Technology Stack
+Technologies Used
 
 - Python
 - FastAPI
