@@ -9,7 +9,7 @@ The objective is to build a complete machine learning workflow and make predicti
 
 Probelm Statement
 Develop a machine learning system that learns patterns from structured
-data nad uses those patterns to make predictions.
+data and uses those patterns to make predictions.
 
 Features
 
